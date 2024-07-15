@@ -10,3 +10,7 @@ In VLSI design, routing metal interconnects between component pins is crucial. T
 ## Repository Structure
 
 The repository includes C, C++, and Python files necessary for creating nets, routing, evaluating, and visualizing routes.
+
+## tst_5
+
+A small test case has been uploaded, for understanding the data formats, and verifying the working of the code. The input is a .net and .cap file and the output is a .PR_output file, along with an image for visualizing the connections
